@@ -11,9 +11,9 @@
 
     <style name="Theme.Facial" parent="Base.Theme.Facial" />
 
-    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+<!--    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
         <item name="android:windowSplashScreenBackground">@color/celeste_medio</item>
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/LOGO</item>
-        <item name="postSplashScreenTheme">@style/Base.Theme.Facial</item>
-    </style>
+        <item name="postSplashScreenTheme">@style/Theme.Facial</item>
+    </style>-->
 </resources>
