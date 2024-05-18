@@ -44,7 +44,7 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:src="@drawable/developer1_photo"
-                        android:contentDescription="Ayan Mukherjee"
+                        android:contentDescription="Hector Jose Meneses Gutierrez"
                         android:layout_marginEnd="16dp" />
 
                     <LinearLayout
@@ -56,7 +56,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="AYAN MUKHERJEE"
+                            android:text="Hector Jose Meneses Gutierrez \nCOD:20202407"
                             android:textColor="@android:color/black"
                             android:textStyle="bold"
                             android:textSize="18sp"
@@ -111,7 +111,7 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:src="@drawable/developer2_photo"
-                        android:contentDescription="Souvik Ghosh"
+                        android:contentDescription="Adrián Jeremi Alva de la Cruz"
                         android:layout_marginEnd="16dp" />
 
                     <LinearLayout
@@ -123,7 +123,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="SOUVIK GHOSH"
+                            android:text="Adrián Jeremi Alva de la Cruz \nCOD:20202480"
                             android:textColor="@android:color/black"
                             android:textStyle="bold"
                             android:textSize="18sp"

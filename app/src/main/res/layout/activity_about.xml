@@ -44,7 +44,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="“We were meant to rescue each other, not cut down the forest to rescue one.”\n— Shannon L. Alder"
+                        android:text="“Si puedes imaginarlo puedes programarlo”\n— Alejandro Taboada"
                         android:textColor="@android:color/black"
                         android:textSize="16sp"
                         android:textAlignment="center" />
@@ -73,7 +73,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="To build software that will be useful for the society, by building a team of hardworking and passionate software developers who are ready to work as a team and not afraid of taking responsibilities."
+                        android:text="La visión del proyecto es desarrollar una aplicación móvil innovadora y efectiva que utilice tecnología de detección facial para identificar signos de somnolencia en conductores. Esta herramienta, diseñada específicamente para las condiciones y necesidades de Perú, busca mejorar la seguridad vial y reducir el número de accidentes causados por la fatiga al volante."
                         android:textColor="@android:color/black"
                         android:textSize="16sp"
                         android:textAlignment="center"/>
@@ -92,7 +92,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="The main reason, we started to develop this application is the eye grabbing increment of the number of road accidents. Using the concept of machine learning we developed this application. Safety of every driver and his/her passengers is our main goal."
+                        android:text="La razón principal por la que comenzamos a desarrollar esta aplicación es el alarmante incremento en el número de accidentes de tráfico. Utilizando técnicas de aprendizaje automático, hemos desarrollado una aplicación innovadora para abordar este problema. Nuestro principal objetivo es garantizar la seguridad de cada conductor."
                         android:textColor="@android:color/black"
                         android:textSize="16sp"
                         android:textAlignment="center" />
@@ -112,7 +112,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Copyright © 2020, Ultra-Dev$, All rights reserved"
+                    android:text="Copyright © 2024, Ulima, All rights reserved"
                     android:textColor="@android:color/black"
                     android:textSize="14sp"
                     android:textAlignment="center" />

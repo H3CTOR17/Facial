@@ -49,7 +49,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="In 2018, the number of accidental fatalities across India amounted to around 412 thousand. The rate of accidental deaths in 2018 was about 2.6 percent higher than the previous year. Road accidents had the highest number of fatalities followed by railway incidents."
+                        android:text="Este proyecto tiene como objetivo contribuir a la sociedad mediante la alerta del riesgo de somnolencia en conductores. La somnolencia al volante es una causa significativa de accidentes de tráfico, y con esta aplicación móvil, se busca reducir esos riesgos identificando signos de fatiga en los conductores y alertándolos antes de que ocurra un incidente."
                         android:textColor="#000000"
                         android:textSize="16sp" />
 
@@ -74,7 +74,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="In 2018, the number of females aged between 25 and 35 years being killed in road accidents amounted to around five thousand across India. Each year, about three to five percent of the GDP of the country was invested in road accidents. About 70 percent of accidents involved young Indians. The country has about one percent of the global vehicle population but it accounted for six percent of the world's road traffic accidents."
+                        android:text="El proyecto ha sido programado en Android Studio utilizando el lenguaje Kotlin. Se analizó con varios conjuntos de datos provenientes de diferentes universidades para comprobar su efectividad y capacidad de respuesta inmediata. Este análisis incluyó la comparación de diferentes algoritmos y técnicas de procesamiento de datos para asegurar que el sistema fuera capaz de manejar grandes volúmenes de información de manera eficiente. Además, se realizaron pruebas exhaustivas para evaluar el rendimiento y la precisión del sistema en diversas condiciones."
                         android:textColor="#000000"
                         android:textSize="16sp" />
 
