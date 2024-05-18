@@ -1,15 +1,14 @@
 package pe.edu.facial
 
-import android.content.Intent
 import android.os.Bundle
-import android.widget.Button
-import android.widget.Toast
-import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
-import androidx.core.view.GravityCompat
 import androidx.drawerlayout.widget.DrawerLayout
 import com.google.android.material.navigation.NavigationView
+import androidx.core.view.GravityCompat
+import androidx.appcompat.app.ActionBarDrawerToggle
+import android.widget.Button
+import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
@@ -35,27 +34,6 @@ class MainActivity : AppCompatActivity() {
         navView.setNavigationItemSelectedListener { menuItem ->
             menuItem.isChecked = true
             drawerLayout.closeDrawers()
-
-            when (menuItem.itemId) {
-                R.id.nav_home -> {
-                    // Handle home action
-                    val intent = Intent(this, MainActivity::class.java)
-                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP or Intent.FLAG_ACTIVITY_NEW_TASK)
-                    startActivity(intent)
-                }
-                R.id.nav_facts -> {
-                    val intent = Intent(this, FactsActivity::class.java)
-                    startActivity(intent)
-                }
-                R.id.nav_developers -> {
-                    val intent = Intent(this, DevelopersActivity::class.java)
-                    startActivity(intent)
-                }
-                R.id.nav_about -> {
-                    val intent = Intent(this, AboutActivity::class.java)
-                    startActivity(intent)
-                }
-            }
             true
         }
 
